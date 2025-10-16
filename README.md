@@ -2,7 +2,7 @@
 
 My parser for educational purpose
 
-![some_image][image.png]
+![some_image](image.png)
 
 ### Example
 
