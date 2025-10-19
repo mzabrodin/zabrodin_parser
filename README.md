@@ -2,7 +2,7 @@
 
 My parser for educational purpose. Implemented by using the `peq` crate.
 
-![some_image](image.png)
+![some_image](img.png)
 
 ### Example
 
